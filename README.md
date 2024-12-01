@@ -8,7 +8,7 @@ the project is a platform for fun emojis, made into jokes.
 
 ### Making a Progressive Web App
 
-To learn see usage, check out the [React documentation] (https://utzmankazeem.github.io/emojP).
+To learn see usage, check out the [React documentation] (https://utzmankazeem.github.io/emojip).
 
 
 ### npm install 😂
