@@ -11,7 +11,7 @@ the project is a platform for fun emojis, made into jokes.
 To learn see usage, check out the [React documentation] (https://utzmankazeem.github.io/emojP).
 
 
-### npm install
+### npm install 😂
 
 run npm install to install all dependencies
 

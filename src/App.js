@@ -3,7 +3,7 @@ import Emojidef from './Emojdocs'
 import View from './View'
 const App = () => {
   return (
-    <div>
+    <div className='container'>
         <h1><span>emopedia</span></h1>
         <dl className='dico'>
         {Emojidef.map(emoj =>{

@@ -5,6 +5,10 @@ body {
     background: #c0d2d4;
     color: #555;
 }
+.container {
+    display: grid;
+    justify-content: center;
+}
 h1{
     font-weight: 900;
     font-size: 200%;
@@ -20,11 +24,11 @@ h1 span {
 }
 .term {
     width: 200px;
+    display: grid;
     float: left;
     margin: 10px;
     border-radius: 20px;
     background: rgb(169, 232, 211);
-
 }
 span.emoji {
     display: block;
@@ -41,6 +45,9 @@ dt span {
 }
 dd{
     font-size: 1rem;
+    position: relative;
+    left: -20px;
     white-space: pre-wrap;
     word-break: break-word;
+    text-align: center;
 }
