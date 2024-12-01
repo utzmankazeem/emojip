@@ -29,7 +29,7 @@ npm start to run app
 #React js 
 #Es7 React Snippet 
 #Async/Await 
-#CSS3
+#RWD
 #api
-#SPA-App
+#SPA
 #FrontendDev
